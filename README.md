@@ -1,0 +1,2 @@
+# Assistant-robot
+Voice Recognition Robot which can give info from wiki or search on google or play a video on Youtube , The Robot  contain 3 Servo motors 2 for hand movement and 1 for neck movement , We are using Arduino Uno Board and In software we are using Python and Arduino IDE for coding , for communication between Python and board we use Serial port , We can improve the bot using leg movement or adding some sensors 
